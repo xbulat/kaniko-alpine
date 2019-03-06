@@ -1,0 +1,4 @@
+[submodule "kaniko"]
+	path = kaniko-src
+	url = https://github.com/GoogleContainerTools/kaniko.git
+	branch = master
